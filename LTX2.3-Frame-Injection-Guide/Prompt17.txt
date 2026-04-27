@@ -1,0 +1,19 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік, дівчина йде праворуч.
+Відбувається зміна ракурсу камери на ракурс із дверима.
+Двері відчиняються і виходить дівчина, дівчина швидко зачиняє двері, розвертається в сторону мотоцикла і відразу йде до мотоциклу праворуч.
+Камера показує рух дівчини від двері до мотоцикла. 
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці. 
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves slightly away from the girl, the girl walks to the right.
+The camera angle changes to the angle with the door.
+The door opens and the girl comes out, the girl quickly closes the door, turns towards the motorcycle and immediately goes to the motorcycle on the right.
+The camera shows the girl's movement from the door to the motorcycle.
+The girl walks to the parked superbike and stops, turns towards the camera.
+The girl takes the helmet from the front of the motorcycle with both hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no abrupt transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Коли дівчина встає зі стільця, змінюється ракурс, але дівчина продовжує йти до дверей і не пропадає, хоч уже новий кадр.
+Виходить друга дівчина правильно, але в кадрі ще перша дівчина, потім перша дівчина через стіни проходить назад у кімнату, у кімнаті з'являється третя дівчина,
+друга дівчина, коли виходить, починає неправильно йти в інший бік, немає плавного руху камери.

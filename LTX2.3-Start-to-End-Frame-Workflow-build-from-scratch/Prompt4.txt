@@ -1,0 +1,9 @@
+A miniture man rushes toward a giant ant, quickly climbing onto their backs until they are free from approaching enemies.
+
+Поставив gemma_3_12B_it.safetensors
+Змінив 1152x765 4 секунди генерувалося у хмарі (24GB VRAM) за 5:22
+
+Зробив спробу згенерувати 1536x1024, не спрацювало на тестовому акаунті.
+
+В цій спробі така ж ситуація, 3 секунди майже правильні, остання - збій.
+

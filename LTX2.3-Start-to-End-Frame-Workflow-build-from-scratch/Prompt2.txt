@@ -1,0 +1,8 @@
+A miniture man rushes toward a giant ant, quickly climbing onto their backs until they are free from approaching enemies.
+
+768x512 4 секунди генерувалося на PC за 18:49    Дуже довго.
+Результат відео - не підходить, дуже поганий. 
+
+Я використовував саму просту версію LTX-2.3-distilled-Q2_K.gguf
+а також gemma-3-12b-it-IQ4_XS.gguf
+Тому можливо це впливає на такий неякісний результат.

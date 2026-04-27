@@ -1,0 +1,8 @@
+A continuous, forward-tracking shot, staying close to the pirate galleon from image 1, follows its journey deeper into the karst-cliff-enclosed bay under the dramatic sunset. Initially, the large waterfalls are clearly defined on the left cliffs. As the ship progresses, the perspective of the camera tracking alongside reveals the bay narrowing towards a developing stone port settlement with a fort (image 2) on the left and other stone buildings on the right, which become more clearly defined as they are approached. The immense stone-carved, multi-headed Quetzalcoatl-like feathered serpent monument rises to dominate the deepest central part of the bay, matching image 2. The galleon's forward motion slows, its sails begin to furl, bringing the ship to an anchored rest. The scene is stabilized on the view from image 2. On the foreground stone dock, the pirate holding the lit torch shifts his weight and adjusts his grip. The continuous audio opens with the combined sounds of rushing waterfalls and creaking wood and wind-whipped sails. Sounds of the soft, distinct clinking of gold coins and murmur of pirate voices complete the audio landscape.
+
+1280x720 10 секунд   згенерувалося за   15:42
+Генерація майже правильна. 
+Тільки в промпті: 
+"На передньому плані каменного причала пірат, тримаючий зажженний факел, переносить вагу і змінює хватку."
+Один пірат, а на причалі три, один з них стриває з повітря на воду і підходить до причалу. У автора також три людини в кінці, а не одна.
+Треба цей момент тестувати.

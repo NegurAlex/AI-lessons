@@ -1,0 +1,8 @@
+A tiny man runs towards the camera from behind an ant, rushes towards the giant ant from behind and quickly climbs onto its back and frees himself from the approaching enemies.
+
+Змінив промпт, змінив попердні налаштування,
+4 секунд, strength 1.0
+
+У відео чомусь слабка анімація руху, стрибка чоловіка, хоч він правильно
+ззаду стрибає, але стрибає він кілька разів на мураха, у цей момент графіка іноді нормальна, іноді обличчя чоловіка дуже поганої якості.
+Наприкінці відео 1 секунда взагалі збій, перескакує у початковий кадр із низькою якістю графіки.

@@ -1,0 +1,17 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік.
+Дівчина виходить із кімнати.
+Дівчина підходить до дверей, простягає ліву руку і відчиняє лівою рукою двері.
+Вона продовжує рух уперед, до зовнішнього простору, з природним переходом освітлення.
+Дівчина не зупиняється довго біля дверей, вона виходить з дому, закриває лівою рукою двері.
+Дівчина йде до припаркованого супербайка і зупиняється поруч із ним, бере шолом із мотоцикла та тримає шолом у руках. Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl stands up from her chair, and the chair moves slightly away from her.
+The girl leaves the room.
+The girl approaches the door, extends her left hand, and opens the door with her left hand.
+She continues moving forward, into the outside space, with a natural transition of lighting.
+The girl doesn't pause long at the door; she exits the house and closes the door with her left hand.
+The girl walks to a parked superbike and stops next to it, takes the motorcycle's helmet, and holds the helmet in her hands. Continuous frame-by-frame movement, no cuts, no abrupt transitions, smooth temporal consistency, stable identity, uniform clothing, natural tempo, realistic movement, 24 frames per second.
+
+Мелодії додається кожен нові, можливо за баг у хмарі, мелодія додалася спокійна, підходить.
+В цей раз дівчина правильно встає, правильно виходить, але коли вона виходить є ще друга дівчина, яка проходить перед нею.
+Коли дівчина підходить до мотоциклу відбувається збій, вона не обертається плавно, а відразу з'являється інший ракурс, в якому вона швидко достає шолом, це обертання не прописано у промпті.

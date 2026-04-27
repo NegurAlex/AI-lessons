@@ -1,0 +1,21 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік, дівчина йде праворуч.
+Двері відчиняються і виходить дівчина, дівчина швидко зачиняє двері, розвертається в сторону мотоцикла і відразу йде до мотоциклу праворуч.
+Камера показує рух дівчини від двері до мотоцикла. 
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці. 
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves slightly away from the girl, the girl walks to the right.
+The door opens and the girl comes out, the girl quickly closes the door, turns towards the motorcycle and immediately goes to the motorcycle on the right.
+The camera shows the girl's movement from the door to the motorcycle.
+The girl goes to the parked superbike and stops, turns towards the camera.
+The girl takes the helmet from the front of the motorcycle with both hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no abrupt transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Неймовірно! Але я отримав вдалу анімацію по промпту де все вірно.
+Є невелике уточнення, в першій частині, коли дівчина встає зі стільця, вона розвертається вправо, але не йде вправо, дівчина йде назад,
+хоча в промпті написано, що йде вправо, але рух швидко змінюється наступним переходом і далі вся анімація виконується правильно за промптом.
+Я згенерував 17 спроб після яких я отримав майже правильну анімацію по всім рухам, деякі деталі спочатку я не уточнював, але багато було неправильних генерацій.
+Але є недолік, коли дівчина виходить із дому, видно, що на стільці сидить манекен.  
+
+це сід 5.

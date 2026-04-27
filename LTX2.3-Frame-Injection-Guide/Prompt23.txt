@@ -1,0 +1,20 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік, дівчина йде праворуч.
+Плавна зміна ракурсу камери на ракурс із домом і дверима.
+Дівчина відкриває двері із заднього боку дверей, дівчина виходить з дому назовні через відкриті двері з кімнати.
+Дівчина швидко зачиняє двері, повертається в сторону мотоцикла праворуч і відразу йде до мотоциклу. Камера показує рух дівчини від дверей до мотоцикла. 
+Коли дівчина йде до мотоциклу в кімнаті нікого немає.
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці.
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves slightly away from the girl, the girl walks to the right.
+Smooth change of camera angle to the angle with the house and the door.
+The girl opens the door from the back of the door, the girl leaves the house outside through the open door from the room.
+The girl quickly closes the door, turns towards the motorcycle on the right and immediately goes to the motorcycle. The camera shows the girl's movement from the door to the motorcycle.
+When the girl walks to the motorcycle, there is no one in the room.
+The girl walks to the parked superbike and stops, turns towards the camera.
+The girl takes the helmet from the front of the motorcycle with two hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no abrupt transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Піднімається зі стільця, правильно йде вправо, потім чомусь виходить не з дому, а навпаки у двері.
+Цей момент постійно генерує неправильно, рука дівчини відчиняла двері і залишилася зовні, потім сама дівчина опиняється всередині будинку та відчиняє двері рукою зовні. Далі все йде правильно. Оскільки цей воркфлоу з великою кількістю нід, потрібно докладно розбирати паузи між кадрами, щоби виправити це.

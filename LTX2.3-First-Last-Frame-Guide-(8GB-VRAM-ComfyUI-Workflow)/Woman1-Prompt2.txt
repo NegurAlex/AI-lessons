@@ -1,0 +1,11 @@
+The video opens on a medium close-up of the natural, freckled woman from Image 1, holding a crease blending brush to her right eyelid with a neutral expression. Over the first few seconds, she begins gentle blending strokes, looking into the lens and saying, "Okay, let's build some dimension. Just blending out this shadow..." After four seconds, she sets down the crease brush and picks up an eyebrow pencil, carefully defining her arches while her eyebrows begin a dramatic, visible morph into the intensely dark and sculpted, bold shape seen in Image 2. As she works, she enthusiastically remarks, "Alright, strong brows today! I want them defined and strong today!" By the 9-second mark, with the eyebrows almost complete, she reaches with her free hand and quickly, delicately attaches the small stud earrings from Image 2, commenting, "And just a little touch for the ears... perfect." At 12 seconds, she transitions focus, setting down the brow pencil and picking up the bullet of vibrant red lipstick (Image 2 color), her base skin texture flawless-ing out to a matte finish in real-time as she says, "Okay, looking good. Base is smooth. Now, for the star of the show!" For the next five seconds, her precision application of the red lipstick is highlighted, as she continues, "Precision is everything with a bold red! Cupid's bow... loving this color!" By 20 seconds, the red lips are established, and she performs a final 'check' in the lens as her lashes visibly lift and volumize; she smiles warmly and strikes the final, beaming, confident pose from Image 2, showing a beautiful teeth-showing smile, as she concludes, "A final check, and yes! Loving the intensified look. It's time to conquer the day!" The entire sequence features fluid, realistic hand movements with perfect lip-synced American English, set against a soft studio backdrop with an upbeat, modern lo-fi track that reaches a jubilant peak with her final smile.
+
+720x1280 10 секунд   згенерувалося за   11:02    (друга спроба після завантаження моделі)
+720x1280 22 секунд   згенерувалося за   02:08:38  Дуже довго в порівнянні з 10 секундами.
+   
+Спробував поставити 24 секунди, видало помилку, не вистачає VRAM.
+Відео згенерувалося правильно, мене влаштовує результат.
+В відео з 4 до 20 секунд додаються дуже великі вії, це вказано у промпті.
+Якісний результат, все як в промпті.
+
+

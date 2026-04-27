@@ -1,0 +1,7 @@
+The background is moving, the leaves are blurred, the camera shows movement, the focus is on the ant and the character, the leaves are blurred.
+Add two legs to the ant. An ant has 6 legs.
+The staff has a straight shape, with a slight rounding at the end.
+
+Я намагався додати лапки у мурахи, багато було невдалих спроб, зараз додало, але не хоче змінювати розташування лапок, 
+намагався змінити фон, але не зберігає листя, іноді трохи змінює.
+Треба окремо редагувати посох, окремо фон щоб отримати чітко що потрібно.

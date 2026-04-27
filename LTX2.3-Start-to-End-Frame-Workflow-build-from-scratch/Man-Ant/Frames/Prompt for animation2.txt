@@ -1,0 +1,24 @@
+The ant stands still.
+A tiny man runs towards the camera from behind an ant, rushes towards the giant ant from behind and quickly climbs onto its back.
+When a man mounts an ant, the man begins to raise the staff upward, forward, and control the ant.
+They flee from enemies who chase them from behind, but do not catch up with them.
+An ant and a man run quickly through the leaves.
+The man points his staff forward as he runs.
+The man doesn't jump off the ant, he sits on it all the time.
+
+10 секунд.
+Є тільки такі горизонтальні розміри, інші не тестував.
+
+3840 × 2176  →  1920 × 1088
+2560 × 1408  →  1280 × 704
+2048 × 1152  →  1024 × 576
+1920 × 1088  →  960  × 544
+1280 × 704   →  640  × 352
+1280 x 736   →  640  × 368 
+960  × 544   →  480  × 272
+768  × 432   →  384  × 216
+
+Анімацію згенерувало нормальну.
+Чоловік підбігає ззаду мурашки, мурашка не бігла, стояла на місці.
+Але коли чоловік стрибав, він трохи спіткнувся і нахилився, потім випростався. Мураха бігла правильно. Вороги з'являлися в анімації, але два однакових якихось великих чоловіки, які пробігли швидше ніж бігла мурашка і побігли далі перед мурахою.
+Потрібно уточнювати в промпті, як виглядають вороги і тестувати, щоб вони правильно бігли.

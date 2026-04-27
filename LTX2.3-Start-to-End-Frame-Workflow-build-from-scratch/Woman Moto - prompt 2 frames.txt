@@ -1,0 +1,15 @@
+Дівчина повертається в сторону мотоцикла праворуч і відразу йде до мотоциклу. Камера показує рух дівчини від дверей до мотоцикла. 
+Коли дівчина йде до мотоциклу в кімнаті нікого немає.
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці.
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl turns to the right towards the motorcycle and immediately walks towards the motorcycle. The camera shows the girl's movement from the door to the motorcycle.
+When the girl walks towards the motorcycle, there is no one in the room.
+The girl walks towards the parked superbike and stops, turning towards the camera.
+The girl takes the helmet from the front of the motorcycle with both hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no abrupt transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Промпт розуміє правильно, дівчина рухається правильно, обертається правильно, камера правильно рухається, але є збої з графікою і в кінці приблизно секунда якісь збої. Відео 1280x736 4 секунди, з них 3 секунди правильна анімація, але графіка розмита з дефектами.
+
+Щось не так з моделями, хоча я робив все як автор в відео і ті ж налаштування.

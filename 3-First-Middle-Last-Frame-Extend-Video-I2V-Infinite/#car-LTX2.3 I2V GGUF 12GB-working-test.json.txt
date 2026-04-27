@@ -1,0 +1,6 @@
+saleen s7 sports car driving down an empty road at dawn, POV from behind.  high-performance racing. slight motion shake consistent with vehicle dynamics and vibration during cornering.
+
+1408x768  5 секунд  -  10:01
+Згенерувало правильно.
+Деякі деталі на авто змінює, наприклад, немає назви моделі авто, дрібних деталей, але значні контури зберігає. Вхідне зображення було трохи іншої пропорції, але відео згенерувалось.
+Є звук двигуна суперкара.

@@ -1,0 +1,13 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік.
+Двері відчиняються і виходить дівчина, вона зачиняє двері.
+Дівчина не зупиняється біля дверей, вона виходить з дому.
+Девушка продовжує рух уперед до зовнішнього простору, з природним переходом освітлення.
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери і бере шолом із мотоцикла та тримає шолом в одній руці. Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves a little away from the girl.
+The door opens and the girl comes out, she closes the door.
+The girl does not stop at the door, she leaves the house.
+The girl continues to move forward towards the outside, with a natural transition of lighting.
+The girl goes to the parked superbike and stops, turns towards the camera and takes the helmet from the motorcycle and holds the helmet in one hand. Continuous frame-by-frame movement, no montages, no sharp transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Ця анімація з виходом дівчини правильна, AI додав трохи рух як дівчина йде коли встає, потім правильно виходить, можна дописати, що йде вправо від стільця. Є помилка в кінці коли дівчина бере шолом з іншої сторони з повітря, але це не прописано детально в промпті і можна уточнювати.

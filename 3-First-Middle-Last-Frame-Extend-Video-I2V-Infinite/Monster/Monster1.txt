@@ -1,0 +1,13 @@
+A terrifying humanoid sea creature crawling on a tropical beach, facing the camera, centered composition. The creature has pale, wet, semi-translucent skin with visible veins and sinewy muscles, emaciated but defined torso, elongated limbs, and sharp clawed hands digging into the sand. Its face is monstrous and distorted, with a wide open screaming mouth full of jagged teeth, hollow dark eye sockets, and stretched, leathery skin.
+
+The creature is kneeling in wet sand near the shoreline, wearing torn, faded denim shorts soaked with seawater. Sand sticks to its skin and hands.
+
+Background: a bright tropical beach with turquoise ocean waves gently washing ashore, clear blue sky, and lush green palm trees leaning slightly in the distance.
+
+Lighting: strong natural sunlight, high contrast, cinematic shadows, rim light highlighting wet skin, subsurface scattering on skin, realistic reflections from water.
+
+Atmosphere: hyper-realistic, cinematic horror, ultra-detailed textures (skin pores, sand grains, water droplets), depth of field, sharp focus on creature, slightly blurred background.
+
+Camera: low angle, eye-level with creature, 35mm lens, shallow depth of field, dramatic perspective.
+
+Style: photorealistic, 8k detail, HDR, film still, cinematic color grading, sharp focus, Unreal Engine quality, volumetric lighting.

@@ -1,0 +1,11 @@
+#LTX2.3 T2V GGUF 12GB.json
+
+Positive prompt
+Style: cinematic-realistic with warm overhead lighting. In a cozy kitchen with wooden cabinets and stainless steel appliances, a man in his late 30s with short dark hair and light stubble stands near an oven. He wears a gray t-shirt and blue jeans. The camera shows him from medium shot as he turns to face the lens, smiling warmly. Soft oven hum fills the background. As he opens the oven door, he pulls out a golden-brown LTX loaf on a baking sheet and holds it up close. Raising the LTX slightly higher, he speaks in an enthusiastic voice: "Hi, Reddit! Brand new LTX out the oven—fresh and much more flavor!" The camera zooms in gently to focus on the crusty exterior of the bread as he finishes his sentence. Background sounds include faint sizzle from a pan on the stovetop and a distant hum of a refrigerator.
+
+Negative prompt
+blurry, low quality, still frame, frames, watermark, overlay, titles, has blurbox, has subtitles
+
+960x960 10 секунд перша генерація  за  12:15 
+Відео відповідає промпту, дефекти мінімальні: видно на розетках що на них є дефекти.
+Обличчя та очі мають дефекти, але в цілому рухи якісні, голос реалістичний. Є відчуття реалістичного відео, крім очей.

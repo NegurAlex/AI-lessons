@@ -1,0 +1,18 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік, дівчина швидко йде від стільця праворуч.
+Двері відчиняються і виходить дівчина, дівчина швидко зачиняє двері і відразу йде до мотоциклу праворуч.
+Дівчина не дивиться по сторонам, не зупиняється. Камера показує рух дівчини від двері до мотоцикла. 
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці. 
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves a little, the girl quickly goes around the chair and goes to the right.
+The door opens and the girl gets out, the girl quickly closes the door and immediately goes to the motorcycle on the right.
+The girl does not stop and moves to the motorcycle and looks immediately at the motorcycle.
+The camera shows the girl's movement from the door to the motorcycle.
+The girl goes to the parked superbike and stops, turns towards the camera.
+The girl takes the helmet from the front of the motorcycle with both hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no abrupt transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Чомусь не врахувало перший кадр, а почало відразу с другого. Зробило анімацію, що дівчина несе стілець до дверей, потім виходить з дому, коли дівчина виходить,
+дивиться по сторонам, але це не вказано у промпті. З цих згенерованих анімацій є по частинам вдалі результати і з них можна змонтувати правильне відео,
+але разом все правильно не генерує, хоча рух камери коли дівчина йде до мотоцикла правильний і дівчина правильно підходить до мотоцикла, правильно бере розвертається і правильно бере шолом і правильно його в кінці тримає.

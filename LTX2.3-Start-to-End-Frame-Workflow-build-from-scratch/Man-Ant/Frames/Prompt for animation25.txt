@@ -1,0 +1,36 @@
+The ant stands still.
+A tiny man with blond hair runs very quickly to the camera behind the ant.
+The man very quickly jumps onto his back onto the giant ant from behind.
+The ant and the man quickly start to run away.
+Large wasps quickly fly after the man from behind and attack.
+The tiny man raises his stick, clings tightly to the ant.
+You can hear the wasps buzzing as they attack.
+The large wasps pounce on the tiny man and sting him.
+The ant and the tiny man quickly run away from the flying wasps.
+The wasps cannot catch up with them and are left behind.
+The ant and the man quickly run through the leaves.
+The man directs his stick forward, running.
+The man remains sitting on the ant the entire time.
+
+Мураха стоїть нерухомо.
+Крихітний чоловічок зі світлим волоссям дуже швидко підбігає до камери позаду мурахи.
+Чоловічок дуже швидко стрибає на спину на гігантську мураху ззаду. 
+Мураха з чоловічком швидко починають тікати. 
+Великі оси швидко летять за чоловічком ззаду та атакують. 
+Крихітний чоловічок піднімає свою палицю, міцно чіпляється за мураху.
+Чути як дзижчать оси в момент їх атак. 
+Великі оси накидаються на крихітного чоловічка та жалять його. 
+Мураха та крихітний чоловічок швидко тікають від летючих ос. 
+Оси не можуть наздогнати їх і залишаються позаду. 
+Мураха та чоловічок швидко біжать по листю. 
+Чоловік направляє свою палицю вперед, бігаючи. 
+Чоловік весь час залишається сидіти на мураху.
+
+В цій анімації також багато помилок.
+Хоча оси і з'явилися коли чоловічок підбігав до мурахи,
+не було екшену, він стрибнув неправильно, чоловік летів на мураху, а не стрибав.
+Потім з третьої до восьмої секунди мураха не бігла.
+Оси літали навколо, але не нападали на чоловічка.
+Посох у чоловічка був неправильної форми, потім змінився.
+Анімації на LTX 2.3 можна генерувати, але з великими об'єктами і простими проптами. Якщо багато делалей, генерує різні недоліки в анімаціях.
+Але плюс також є у тому, що хоча я і додавав тут аудіо до файлу, воно чомусь не програється і кожет раз генерується нові мелодії і звуки, які відповідають рухам.

@@ -1,0 +1,21 @@
+Дівчина встає зі стільця, стілець трохи від'їжджає від дівчини убік, дівчина йде праворуч.
+Плавна зміна ракурсу камери на ракурс із дверима.
+Двері дома відчиняються, їх відкриває дівчина, дівчина виходить з дому через відкриті двері з кімнати.
+Дівчина швидко зачиняє двері, повертається в сторону мотоцикла праворуч і відразу йде до мотоциклу. Камера показує рух дівчини від дверей до мотоцикла. 
+Коли дівчина йде до мотоциклу в кімнаті нікого немає.
+Дівчина йде до припаркованого супербайка і зупиняється, розвертається в сторону камери. 
+Дівчина бере шолом з передньої частини мотоцикла двома руками і тримає шолом в одній руці.
+Безперервний покадровий рух, без монтажних склейок, без різких переходів, плавна часова узгодженість, стабільна ідентичність, одноманітний одяг, природний темп, реалістичний рух, 24 кадри на секунду.
+
+The girl gets up from the chair, the chair moves slightly away from the girl, the girl walks to the right.
+Smooth change of camera angle to the angle with the door.
+The door of the house opens, the girl opens it, the girl leaves the house through the open door from the room.
+The girl quickly closes the door, turns towards the motorcycle on the right and immediately goes to the motorcycle. The camera shows the girl's movement from the door to the motorcycle.
+When the girl walks to the motorcycle, there is no one in the room.
+The girl walks to the parked superbike and stops, turns towards the camera.
+The girl takes the helmet from the front of the motorcycle with two hands and holds the helmet in one hand.
+Continuous frame-by-frame movement, no montages, no sharp transitions, smooth temporal coherence, stable identity, uniform clothing, natural pace, realistic movement, 24 frames per second.
+
+Знову помилка, коли дівчина встає, вона у другому кадрі не виходить із дому, а підходить до дверей, починає їх відчиняти, потім стоїть і не йде до мотоцикла, йде в іншому напрямку. Потім зміна ракурсу та дівчина вже біля мотоцикла.
+Я зробив 24 генерації, всі вони були з різними збоями, з цих генерацій можна взяти окремо першу частину та другу та змонтувати окремо.
+Напевно, зараз для таких генерацій на цій моделі LTX 2.3 найкраще генерувати по двох кадрах, я тестував цей форкфлоу саме за трьома кадрами.

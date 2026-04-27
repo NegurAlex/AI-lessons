@@ -1,0 +1,14 @@
+The ant stands still.
+A tiny man with blond hair quickly runs towards the camera behind the ant.
+Large wasps hunt the tiny man and fly after the man from behind.
+The man very quickly jumps onto the back of the giant ant from behind. The tiny man raises his stick, clings tightly to the ant, and the ant and man begin to run away. The wasps can be heard buzzing as they attack. The large wasps pounce on the tiny man and sting him. The ant and the tiny man quickly run away from the flying wasps. The wasps cannot catch up with them and are left behind. The ant and the man quickly run through the leaves. The man points his stick forward as he runs. The man does not jump off the ant; he remains sitting on it the entire time.
+
+Мураха стоїть нерухомо.
+Крихітний чоловічок зі світлим волоссям швидко підбігає до камери позаду мурахи.
+Великі оси полюють на крихітного чоловічка та летять за чоловічком ззаду. 
+Чоловічок дуже швидко стрибає на спину на гігантську мураху ззаду. Крихітний чоловічок піднімає свою палицю, міцно чіпляється за мураху, і мураха з чоловічком починають тікати. Чути як дзижчать оси в момент їх атак. Великі оси накидаються на крихітного чоловічка та жалять його. Мураха та крихітний чоловічок швидко тікають від летючих ос. Оси не можуть наздогнати їх і залишаються позаду. Мураха та чоловічок швидко біжать по листю. Чоловік направляє свою палицю вперед, бігаючи. Чоловік не зістрибує з мурахи; він весь час залишається сидіти на ній.
+
+В анімації чоловік довго стрибав у різні боки, поки застрибнув на мураху.
+Потім мурашка довго стояла і не рухалася, рух мурашки почався вже після шостої секунди,
+Це впливає на всю анімацію, цей рух має бути швидким, десь із третьої секунди.
+Можливо, потрібно змінити в промпті полювання ос на чоловічка після руху мурахи, але потрібно, щоб оси з'являлися в той же час разом з появою чоловічка, але це не повинно затримувати рух мурахи.

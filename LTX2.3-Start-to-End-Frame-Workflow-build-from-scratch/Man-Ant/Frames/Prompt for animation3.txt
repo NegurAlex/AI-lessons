@@ -1,0 +1,15 @@
+The ant stands still.
+A tiny man runs towards the camera from behind an ant, rushes towards the giant ant from behind and quickly climbs onto its back.
+When a man mounts an ant, the man begins to raise the staff upward, forward, and control the ant. They flee from enemies who chase them from behind, but do not catch up with them.
+The enemies run behind the ant, but do not catch up with them, but remain behind them.
+An ant and a man run quickly through the leaves.
+The man points his staff forward as he runs.
+The man doesn't jump off the ant, he sits on it all the time.
+
+
+Є збої в анімації.
+Чоловік підбігає не ззаду, а попереду.
+У мурахи коли він стоїть чомусь додається ще одна лапка, їх стає 7.
+Потім коли мураха біжить, лапок стає шість.
+Чоловік показує правильно палицею, але на початку він довго стрибав і анімація закінчується.
+Наприкінці вороги не нападають ззаду, а пробігають поруч повз мураху.

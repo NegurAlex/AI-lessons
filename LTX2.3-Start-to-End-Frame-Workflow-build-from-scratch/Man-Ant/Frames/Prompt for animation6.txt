@@ -1,0 +1,13 @@
+The ant stands motionless.
+A tiny man runs into the camera behind the ant, lunges at the giant ant from behind, and quickly climbs onto its back. Sitting on the ant, the man begins to raise his staff forward and control it.
+The ant and the tiny man begin to run away from the beetle, caterpillar, and flying wasps. The beetle, caterpillar, and wasps are enemies.
+The tiny man and the ant run away from them. The enemies chase the ant, but fail to catch up and are left behind. The ant and the man quickly run across the leaves. The man points his staff forward as he runs. The man doesn't jump off the ant; he sits on it the entire time.
+
+Мураха стоїть нерухомо.
+Крихітний чоловічок вбігає в камеру позаду мурахи, кидається на гігантську мураху ззаду та швидко залазить їй на спину. Сівши на мураху, чоловічок починає піднімати свою палицю вперед і керувати нею. Мураха та крихітний чоловічок починають тікати від жука, гусениці та літаючих ос. Жук, гусениця та оси – вороги. Крихітний чоловічок та мураха тікають від них. Вороги женуться за мурахою, але не наздоганяють і залишаються позаду. Мураха та чоловічок швидко біжать по листю. Чоловік направляє свою палицю вперед, бігаючи. Чоловік не зістрибує з мурахи; він весь час сидить на ній.
+
+Анімація загалом нормальна та правильна, але є недоліки.
+Спочатку крихітний чоловічок правильно підбігає і стрибає на мураху, ця анімація вдала,
+також мураха вдало стояла і чекала. Але у чоловіка сильно змінилося обличчя.
+Чоловік підбігав бех палиці і взяв палицю у мурашки. Вороги почали нападати, і вони вдало бігли і намагалися наздогнати, але, як зазначено у промпті, мураха з чоловіком від ворогів втекла. Але замість жука, гусениці та літаючих ос були незрозумілі персонажі.
+Загалом цікава анімація, але потрібно деталізувати ворогів.

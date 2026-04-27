@@ -1,0 +1,14 @@
+She turns her head and gets up from her chair.
+The girl leaves the room. She walks to the door, reaches out, and opens it in a smooth motion. She continues forward, into the outside environment with a natural transition of lighting.
+
+She walks to a parked superbike and stops next to it, holding her helmet. Continuous frame-by-frame motion, no cuts, no abrupt transitions, smooth temporal coherence, stable identity, consistent clothing, natural pace, realistic movement, 24 frames/s.
+
+Змінив промпт.
+В цей раз дівчина правильно виходить з кімнати, закриває дверь, але вона зупиняється перед дверима,
+начебто когось пропускає, потім відкриває двері двома руками.
+Далі в неї з'являється шолом і вона правильно йде до мотоциклу, але прискорюється дуже швидко.
+Це відбувається тому що тривалість відео 15 секунд і в кінці не вистачає часу на плавну ходу.
+На початку відео дівчина обертається, а не встає, також є збій коли вона обертається, рух відбувається в іншу сторону.
+Мелодія не додалася, а генерується якась інша.
+В цілому відео 1280x704 15 секунд з трьох зображень 1920x1080 у хмарі на 24GB згенерувало за 5:43,
+є помилки у русі, але це все потрібно деталізовано прописувати щоб не було зайвих рухів, пауз і неправильних анімацій з об'єктами.
