@@ -1,0 +1,13 @@
+cinematic shot of a dark car driving forward on a straight road, camera starts low in front of the car, moving backward as the car advances toward camera, road surface subtly shifting and transforming during motion, smooth continuous movement
+
+camera gradually zooms out and lifts into a wide aerial view, car becomes smaller but stays perfectly centered, driving into the distance, seamless transition to second frame composition, smooth interpolation between frames, stable tracking, no jitter, realistic lighting, cinematic motion blur
+
+
+848x1280 10 секунд не генерувало 
+720x1088 10 секунд згенерувало, але довго   53:14
+
+Я змінив розмір, вдалося згенерувати.
+Анімація правильна, відповідає промпту.
+Рух авто досить швидкий, камера швидко робить видалення з першого кадру на віддалену відстань,
+можна це тестувати. Видно контур лави зберігається.
+Відео можна генерувати ще меншого розміру і робити Upscale. 

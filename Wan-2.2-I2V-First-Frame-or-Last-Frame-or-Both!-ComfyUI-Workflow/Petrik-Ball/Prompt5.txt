@@ -1,0 +1,11 @@
+The boy turns toward the ball from the left center, steps back slightly, runs quickly toward the ball, and kicks it hard with his far foot. The ball flies toward the camera. The boy jumps as it flies.
+The animation ends when the ball covers the entire screen and is very close to the camera.
+The hare and the bear don't blink, and no animation occurs.
+All objects in the scene do not move except the boy and the ball.
+
+
+
+1280x960 3 секунд     Згенерувало за 25:05  Довше ніж 5 секунд генерувало, інший промпт.
+
+Перший та останній кадри правильні, Петрик підходить до м'яча, але не відходить трохи назад.
+Удар ногою є, але у стрибку і удар нечіткий. Таку анімацію можна згенерувати правильно, але треба перебирати багато випадкових варіантів, щоб отримати чіткий удар та правильні рухи.

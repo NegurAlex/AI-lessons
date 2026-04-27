@@ -1,0 +1,8 @@
+The boy turns to face the ball. The boy approaches the ball. The boy steps back from the ball, runs up, and kicks the ball. The ball flies straight toward the camera and spins slightly. The boy moves very easily, he is having fun, he is happy, after hitting the ball the boy jumps and waves his wings.
+
+1280x960 5 секунд     Згенерувало за 23:22
+
+У відео додаються зайві рухи Петрика, він б'є м'яч в інший бік, потім м'яч летить у бік камери. Також у Петрика з'являються крила.
+В іншому воркфлоу на моделі Wan2.2 анімація виходила краще.
+Можливо, варто поставити 3 секунди, як у тих відео, щоб не було зайвих рухів.
+Я прописував інший детальний промпт.
