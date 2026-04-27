@@ -1,0 +1,15 @@
+A bearded man with red facial hair wearing a yellow straw hat and dark coat in Van Gogh's self-portrait style, slowly and continuously transforms into a space astronaut. The transformation flows like liquid paint - his beard fades away strand by strand, the yellow hat melts and reforms smoothly into a silver space helmet, dark coat gradually lightens and restructures into a white spacesuit. The background swirling brushstrokes slowly organize and clarify into realistic stars and space, with Earth appearing gradually in the distance. Every change happens in seamless waves, maintaining visual continuity throughout the metamorphosis.
+
+Consistent soft lighting throughout, medium close-up maintaining same framing, central composition stays fixed, gentle color temperature shift from warm to cool, gradual contrast increase, smooth style transition from painterly to photorealistic. Static camera with subtle slow zoom, emphasizing the flowing transformation process without abrupt changes.
+
+Завантажив у хмарі
+
+Поставив максимальні розміри 1024x1024 5 секунди, вхідні зображення такого розміру. Цей воркфлоу без додавання LoRa для прискорень генерацій, на тих моделях, які були спочатку у воркфлоу.
+
+Згенерував це відео на тестовому акаунті з 24GB VRAM
+Вдалося згенерувати за 33:29, часто є обмеження по часу генерації 
+і генерація обривається на 15-20 хвилинах в залежності від завантаженості цього сайту.
+
+Анімація морфінгу правильна. Обличчя плавно змінюється без різких переходів, піджак і капелюх поступово зникають без різкої анімації. Єдиний недолік у цій анімації на мій погляд – це анімація очей, вони зрушуються у різні боки, не зафіксовані на одному погляді.
+Погляд на двох зображеннях трохи різний, на вхідному зображенні погляд направлений у камеру, на вихідному погляд направлений в сторону.
+Декілька секунд Van Gogh дивиться ліворуч, але не тільки у погляді проблема, очі неправильно рухаються, є різкі переходи без плавного морфінгу зіниць, із-за цього анімація не підходить, хоча все інше правильно згенеровано. Можна пробувати змінювати у промпті фіксацію зіниць, додати опис напрямку очей, можна тестувати Lora, яка стабілізує очі.

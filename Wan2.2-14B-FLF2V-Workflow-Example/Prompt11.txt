@@ -1,0 +1,24 @@
+A bearded man with red facial hair wearing a yellow straw hat and dark coat in Van Gogh's self-portrait style, slowly and continuously transforms into a space astronaut. The transformation flows like liquid paint - his beard fades away strand by strand, the yellow hat melts and reforms smoothly into a silver space helmet, dark coat gradually lightens and restructures into a white spacesuit. The background swirling brushstrokes slowly organize and clarify into realistic stars and space, with Earth appearing gradually in the distance. Every change happens in seamless waves, maintaining visual continuity throughout the metamorphosis.
+
+Consistent soft lighting throughout, medium close-up maintaining same framing, central composition stays fixed, gentle color temperature shift from warm to cool, gradual contrast increase, smooth style transition from painterly to photorealistic. Static camera with subtle slow zoom, emphasizing the flowing transformation process without abrupt changes.
+
+The eyes and pupils animate smoothly and morph smoothly.
+The Van Gogh's first look towards the camera, stay in the direction of the camera for a few seconds, and in the third second, in the middle of the video, the man's gaze is slightly directed to the side, as in the last image. 
+The head and face do not rotate or shift in different directions. Morphing is smooth and without jerking.
+
+
+Додав у цей промпт ще фіксацію голови та обличчя.
+
+Завантажив у хмарі. 
+
+Поставив розміри 600x600 5 секунд. Цей воркфлоу без додавання LoRa для прискорень генерацій, на тих моделях, які були спочатку у воркфлоу.
+
+Згенерував це відео на тестовому акаунті з 24GB VRAM
+
+З цим промптом згенерувало майже правильно без серйозний збоїв.
+Але додало більше обертання голови ніж потрібно.
+Я використовував промпт, який був доданий у цьому ворфкфлоу для тестіd на сайті але без третього абзацу. 
+https://docs.comfy.org/tutorials/video/wan/wan2_2#1-download-workflow-file  
+
+При такій складній анімації морфінгу дуже важливо щоб голова та очі правильно анімувалися. В цій версії анімація повністю плавна. Спочатку голова плавно робить обертання в сторону, як на другому кадрі, але розвертається більше ніж потрібно. Після цього розвертання відбувається формінг одного обличчя в інше,
+зникає капелюх і піджак з сорочкою. Очі морфяться майже правильно, є тільки півсекунди невеликого ледь помітного зсуву очей. Потім відбувається обертання тіла трохи назад до потрібного ракурсу. В цій анімації не потрібно зайвого додаткового обертання, хоча цей варіант якісний. На цьому промпті можна тестувати інші варіанти, поки не буде повністю потрібної анімації морфінгу.

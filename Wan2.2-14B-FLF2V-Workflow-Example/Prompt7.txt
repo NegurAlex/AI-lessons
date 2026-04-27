@@ -1,0 +1,22 @@
+A bearded man with red facial hair wearing a yellow straw hat and dark coat in Van Gogh's self-portrait style, slowly and continuously transforms into a space astronaut. The transformation flows like liquid paint - his beard fades away strand by strand, the yellow hat melts and reforms smoothly into a silver space helmet, dark coat gradually lightens and restructures into a white spacesuit. The background swirling brushstrokes slowly organize and clarify into realistic stars and space, with Earth appearing gradually in the distance. Every change happens in seamless waves, maintaining visual continuity throughout the metamorphosis.
+
+Consistent soft lighting throughout, medium close-up maintaining same framing, central composition stays fixed, gentle color temperature shift from warm to cool, gradual contrast increase, smooth style transition from painterly to photorealistic. Static camera with subtle slow zoom, emphasizing the flowing transformation process without abrupt changes.
+
+
+Завантажив ComfyUI з lowvram та іншими обмеженнями як для LTX 2.3
+
+В цьому воркфлоу використовується LoRa
+lightx2v_I2V_14B_480p_cfg_step_distill_rank128_bf16.safetensors
+
+Поставив розміри більше ніж 600x600 як в попередньому воркфлоу, 
+вхідні розміри зображень 1024x1024.
+
+Змінив розміри
+800x800 10 секунд, випадково не змінив на 5 секунд, анімація вийшла більше ніж потрібно.
+Генерувало 39:11
+
+Із-за великої тривалості анімації в кінці відбувається знову перехід з кінцевого на перший кадр з частковою анімацією. Є певні недоліки в цій анімації, не повністю зникає капелюх і є проміжки коли він довго залишається напівпрозорий і не зникає.
+
+
+
+

@@ -1,0 +1,19 @@
+Positive prompt:
+A smooth cinematic transformation from a painted portrait of Vincent van Gogh into a realistic astronaut. 
+
+Oil painting brush strokes gradually dissolve into real skin. The abstract painted background transitions into outer space. A transparent astronaut helmet forms around the head.
+
+Maintain the same face, composition, and position. Slow continuous morph, no distortion, cinematic lighting, high detail.
+
+
+Negative prompt:
+Vibrant colors, overexposed, static, blurry details, subtitles, style, artwork, painting, image, still, overall grayish, worst quality, low quality, JPEG compression residue, ugly, incomplete, extra fingers, poorly drawn hands, poorly drawn faces, deformed, disfigured, distorted limbs, fingers fused together, static image, cluttered background, three legs, many people in the background, walking backwards.
+distorted face, blurry, flicker, low quality, duplicate face, artifacts
+
+
+600x600 5 секунд у хмарі згенерувало за 7:13
+
+Анімація не плавно змінюється, я завантажував цей воркфлоу з 
+https://docs.comfy.org/tutorials/video/wan/wan2_2#1-download-workflow-file
+
+Але там був тільки частково промпт. Цей промпт згенерований ChatGpt, для кращої анімації треба детально описати що як змінювати в анімації.
