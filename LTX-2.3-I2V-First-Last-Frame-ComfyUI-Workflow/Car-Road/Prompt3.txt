@@ -1,0 +1,11 @@
+cinematic shot of a dark car driving forward on a straight road, camera starts low in front of the car, moving backward as the car advances toward camera, road surface subtly shifting and transforming during motion, smooth continuous movement
+
+camera gradually zooms out and lifts into a wide aerial view, car becomes smaller but stays perfectly centered, driving into the distance, seamless transition to second frame composition, smooth interpolation between frames, stable tracking, no jitter, realistic lighting, cinematic motion blur
+
+
+688x1024 10 секунд  на іншому воркфлоу, перше завантаження моделей, згенерувало за   17:46
+
+Це відео також нормальне.
+Все відповідає промпту. Лава виглядає більш деталізованою ніж у попередньому воркфлоу.
+Хоча зміна ракурсу з першого кадру на інший вид не дуже деталізована так, щоб було видно, як рух авто повністю переходив плавно без різкої зміни, але анімація нормальна.
+Можна спробувати інші промпти, можливо інші промпти допоможуть зробити повністю плавний перехід.
