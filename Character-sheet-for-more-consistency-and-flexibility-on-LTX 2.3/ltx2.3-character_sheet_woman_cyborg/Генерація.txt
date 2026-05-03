@@ -1,0 +1,14 @@
+[0s-4s] A cinematic medium shot in a bright, sun-baked desert with rolling sand dunes. A female cyborg stands in the center, initially facing away towards a rusted, blurred buggy in the background. She slowly pivots her feet in the deep sand, turning around to face the camera. As she moves, her heavy, distressed brown leather jacket aggressively crinkles and shifts. Her fully mechanical, silver left arm swings slightly, exposing complex internal wiring and sliding steel pistons. She grips a small metal key in her human right hand.
+[4s-8s] The camera continuously and smoothly pushes in, closing the distance into a tight, dramatic close-up of her face as she completes her turn. The extreme detail of her split face is revealed: the right side features realistic, fine human skin and loose hair blowing in the wind, while the left side exposes dark metallic skull plating, neck wires, and a brightly glowing green mechanical optic. She stares intensely into the lens, the aperture of her glowing green eye physically dilating and shifting focus.
+Audio:
+[0s-4s] The dry, continuous howl of the desert wind. The soft, heavy crunch of boots shifting in deep sand, mixed with the tight, stiff creaking of heavy leather stretching.
+[4s-8s] The wind noise drops slightly as the camera gets closer. A sharp, high-pitched mechanical whirring and a rapid sequence of high-tech microscopic clicks ring out as her cybernetic eye lens physically adjusts and locks focus.
+
+Я завантажив замість моделей, які були у воркфлоу моделі, які для моєї відеокарти gguf,
+відео 1920x1080 9 секунд  згенерувалося за 52 хвилини, але є збої:
+
+у кінці остання секунда дефекти, у автора відео теж це є, ций дефект був і в інших ворфклоу;
+якість графіки погана;
+відео не відповідає промпту, кіборг тримає камеру, але її немає на її обличчі;
+
+Є правильні звуки.
