@@ -1,0 +1,14 @@
+Відео згенерувалося 1280x704 правильного розміру, 20 секунд,
+але анімація неправильна.
+Анімується спочатку зображення з Character Sheet, жінки рухаються, відбувається тестова розмова, потім з'являється кімната, в якій є три жінки. Відео не відповідає промпту.
+
+GLOBAL PROMPT
+the character sheet woman is ApexJane
+
+LOCAL PROMPT
+11 ApexJane appear, walk in camera close-up shot of her shoe, and camera slowly pan up to her face. in medium shot. she says Hi this is a test of character sheet.". camera dolly out to a wide shot.
+
+Жінка неправильно рухається, читає текст локального промпту разом із назвою 11 ApexJane, декілька раз повторює test character shet.
+Потім в кінці відео ще раз жінка правильно каже
+"Hi this is a test of character sheet" 
+Можливо треба замінити моделі чітко як у автора. 

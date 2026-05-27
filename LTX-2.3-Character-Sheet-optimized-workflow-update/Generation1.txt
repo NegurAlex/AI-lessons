@@ -1,0 +1,12 @@
+Я додав два кадри Character Sheet та First Frame, за якими має згенеруватися відео.
+Задав промпт
+GLOBAL PROMPT
+the character sheet woman is ApexJane
+
+LOCAL PROMPT
+11 ApexJane appear, ходьба в камері close-up shot of her shoe, і camera slowly pan up to her face. in medium shot. she says Hi this is a test of character sheet.". camera dolly out to a wide shot.
+
+Задав розміри відео
+1280 x 704
+
+Але відео згенерувалося неправильно. Розмір відео вертикальний, відео не відповідає промпту. У ньому є дівчина, вона правильно рухається, але чомусь каже, що це Test of Character Sheet, замість генерації по промпту. Дівчина правильно спілкується є ліпсинк, але всі дії не відповідають промпту. Незрозуміло за яким промптом анімація.

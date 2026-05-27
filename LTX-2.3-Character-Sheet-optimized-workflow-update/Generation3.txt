@@ -1,0 +1,17 @@
+Я завантажив 
+gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors
+
+але залишив 
+
+ltx-2.3-22-ditilled-Q5_K_M.gguf
+замість 
+
+Itx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors
+
+як у автора 
+і у мене відео неправильно анімується, анімація не відповідає промпту,
+
+Але в промпті я не поставив одну лапку як ставив автор " після says,
+можливо із-за цієї втраченої лапки повністю направильна анімація.
+
+ApexJane appear, walk in camera close-up shot of her shoe, and camera slowly pan up to her face. in medium shot. she says " Hi this is a test of character sheet.". camera dolly out to a wide shot.

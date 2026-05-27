@@ -1,0 +1,12 @@
+GLOBAL PROMPT
+the character sheet woman is ApexJane
+
+LOCAL PROMPT
+close-up shot of her shoe, and camera slowly pan up to her face. in medium shot. she says " Hi this is a test of character sheet.". camera dolly out to a wide shot.
+
+На моделі ltx-2.3-22b-distilled-Q5_K_M.guff
+генерує неправильно відео, в ньому жінка неправильно спілкується, з'являються декілька жінок, немає зображення залу як на зображенні First Frame
+
+Можливо це із-за того, що я не завантажую
+Itx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors
+а використовую спрощену версію gguf
