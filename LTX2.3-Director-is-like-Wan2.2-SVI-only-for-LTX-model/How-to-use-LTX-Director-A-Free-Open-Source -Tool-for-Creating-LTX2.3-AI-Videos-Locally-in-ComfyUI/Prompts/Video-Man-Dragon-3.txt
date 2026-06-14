@@ -1,0 +1,14 @@
+1. 0-3 сек. side view tracking show of man riding a horse quickly forward across a empty desert
+2. 3-4.5 сек. the camera orbits behind the man to a over the shoulder shot and a dragon comes into view in the background. the camera follows behind the man on the horse.
+3. 4.5 - 6 сек. Зображення з промптом the dragon is flapping its wings. The horse and the man pause a little.
+4. 6-7 сек. the camera follows behind the man as he continues riding his horse forward. 
+
+Спрощена модель ltx-2.3-22b-distilled-Q5_K_M.gguf. Відео згенерувалося, але є збої:
+у цій версії у небі з'явилися шість дивних сфер різного кольору, схожі на арбузи з чотирма крилами;
+чоловік спочатку не рухається, а сидить на коні і дивиться на дракона, потім через певний час рухається в сторону дракона;
+коли кінь із чоловіком підходить до дракона, чоловік падає з коня від реву дракона, але в промпті чоловік повинен рухатися далі;
+є зайва тиха мелодія, яка не була вказана в промпті, також чути стукіт коня та рев дракона, але звуки не чисті.
+
+У відео є якісна анімація руху піску від копит коня.
+
+

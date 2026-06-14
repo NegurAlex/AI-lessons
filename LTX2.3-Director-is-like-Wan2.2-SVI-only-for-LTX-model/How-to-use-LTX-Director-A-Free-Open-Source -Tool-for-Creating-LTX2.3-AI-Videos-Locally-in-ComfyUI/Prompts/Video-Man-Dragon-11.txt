@@ -1,0 +1,9 @@
+1. The camera follows closely behind the man riding a horse quickly forward towards a dragon. The camera is shaking while following behind. The horse kicks up sand while its galloping quickly across the desert towards the dragon in the distance. the dragon turns its head to look at the man approaching on the horse. 
+
+2. The dragon begins flapping its wings, repeatedly spews fire from its mouth toward the man on horseback, rises into the air, and flies away. The man on horseback jumps away from the dragon's fire and moves away from it, turning to the right on horseback. 
+
+3. The man on the horse continues to gallop to the right, gaining good speed.
+
+Я додав у середині руху коню, щоб чоловік не стояв на коні на одному місці, але кінь не рухається.
+Також анімація не повинна бути сповільненою, все має відбуватися швидко, але відео має відчуття зависання часу. Різко змінюються 3 кадри, немає плавності між ними. Дракон летить в сторону чоловіка і пролітає через нього. Зайва фонова мелодія, неякісні звуки. Генерується зайва остання секунда з багами. Незрозуміло, чому в хмарі цей воркфлоу генерується з помилками, всі моделі правильні.
+Багато багів на цьому воркфлоу.

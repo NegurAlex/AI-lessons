@@ -1,0 +1,12 @@
+1. 1-4 сек. The camera follows closely behind the man riding a horse quickly forward towards a dragon. The camera is shaking while following behind. The horse kicks up sand while its galloping quickly across the desert towards the dragon in the distance. the dragon turns its head to look at the man approaching on the horse.
+2. 4-8.3 сек. The dragon begins to flap its wings, releases fire from its mouth several times in the direction of the man on the horse, takes off into the air and flies away.
+3. 8.3 - 10 сек. The man on the horse continues to gallop to the right, gaining good speed.
+
+Повна модель ltx-2.3-22b-dev-fp8.safetensors. Відео 1920 пікселей по ширині згенерувалося, але є збої:
+неправильні мелодії, неякісний звук;
+в цій версії є також різкі переходи між кадрами, анімація не відбувається плавно з одного кадру в інший;
+як в попередній версії, чоловік підходить до дракона, зупиняється, довго стоїть, у промпті написано що дракон декілька разів жарить вогнем в сторону чоловіка, але в відео дракон тільки один раз це робить, потім дракон не летить у небо, як вказано у промпті, відбувається різкий перехід на останній кадр;
+дракон довго підіймається, лівітує над землею, немає швидкого руху і маху крил;
+звуки слабенькі.
+
+Анімація не підходить, потрібно покращувати промпт, більше тестувати, але з цими промптами на gguf моделі були анімації з екшеном і плавними переходами між кадрами.

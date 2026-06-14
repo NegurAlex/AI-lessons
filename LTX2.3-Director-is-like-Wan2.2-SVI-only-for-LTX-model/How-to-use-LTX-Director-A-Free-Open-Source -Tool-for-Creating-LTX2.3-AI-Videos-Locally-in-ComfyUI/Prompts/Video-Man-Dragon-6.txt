@@ -1,0 +1,15 @@
+1. 0-3 сек. side view tracking show of man riding a horse quickly forward across a empty desert
+2. 3-4.5 сек. the camera orbits behind the man to a over the shoulder shot and a dragon comes into view in the background. the camera follows behind the man on the horse.
+3. 4.5 - 6 сек. Зображення з промптом the dragon is flapping its wings. The horse and the man pause a little.
+4. 6-7 сек. the camera follows behind the man as he continues riding his horse forward. 
+
+Повна модель ltx-2.3-22b-dev-fp8.safetensors. 
+Той же воркфлоу, який я тестував на комп'ютері на спрощеній моделі gguf.
+Розмір відео по ширині 1920. На комп'ютері тестував на 960 по ширині.
+В цій версії камера вже правильно супроводжує спочатку рух коня, а не просто стоїть на місці.
+Добре чутно стукіт копит. Але у відео є збої:
+чоловік підскакує на коні і зупиняється, дракон слабо махає крилами, майже нема руху;
+далі кінь не рухається, але в промпті він має далі стрибати;
+є зайва мелодія, якої не повинно бути;
+є неправильне розташування заднього копита у коня, але так було неправильно згенеровано у зображенні, тому й у відео таке;
+якість графіки у відео на розмірі 1920 добра, в кінці відео є баг з графікою.

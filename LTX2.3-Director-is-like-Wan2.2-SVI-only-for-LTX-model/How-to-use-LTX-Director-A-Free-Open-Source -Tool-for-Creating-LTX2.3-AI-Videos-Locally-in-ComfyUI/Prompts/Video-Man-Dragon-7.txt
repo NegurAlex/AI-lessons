@@ -1,0 +1,15 @@
+1. 1-4 сек. The camera follows closely behind the man riding a horse quickly forward towards a dragon. The camera is shaking while following behind. The horse kicks up sand while its galloping quickly across the desert towards the dragon in the distance. the dragon turns its head to look at the man approaching on the horse.
+2. 4-8.3 сек. The dragon begins to flap its wings, releases fire from its mouth several times in the direction of the man on the horse, takes off into the air and flies away.
+3. 8.3 - 10 сек. The man on the horse continues to gallop to the right, gaining good speed.
+
+Спрощена модель ltx-2.3-22b-distilled-Q5_K_M.gguf. Відео 960 пікселей по ширині згенерувалося, але є збої:
+коли чоловік скаче спочатку на коні, камера його не супроводжує, вона не рухається;
+між першим і другим зображенням небо відрізняється, на другому воно світліше, цей переход видно в анімації,
+небо потрібно робити однаковим на всіх зорбаженнях;
+коли чоловік наближається до дракона, той стрибає назад і починає гасити вогнем у бік чоловіка,
+але стрибка дракона назад не було у промпті;
+тривалість анімації вказується 10 секунд, але згенерувалося 11 секунд, остання секунда з багами;
+у відео є зайва фонова музика, інші звуки стукоту копит коня, вильоту вогню та польоту дракона правильні, але звуки неякісні;
+я генерую на спрощеній моделі, тому якість графіки низька.
+
+
